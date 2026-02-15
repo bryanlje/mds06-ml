@@ -79,5 +79,3 @@ This project was developed by **Team MDS06**:
 ## 📧 Contact
 
 Email: [2025mds06@gmail.com](mailto:2025mds06@gmail.com)
-
-Project Link: [https://github.com/bryanlje/mds06-frontend](https://github.com/bryanlje/mds06-frontend)
